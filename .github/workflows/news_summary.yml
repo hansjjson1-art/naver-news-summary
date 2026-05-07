@@ -1,6 +1,6 @@
-name: Daily News Summary
+"name": Daily News Summary
 
-on:
+"on":
   schedule:
     - cron: '40 23 * * *'  # 매일 KST 08:40 (UTC 23:40)
   workflow_dispatch:        # 수동 실행 가능
