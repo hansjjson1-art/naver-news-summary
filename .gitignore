@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+kakao_pending.json
+kakao_sender.py
